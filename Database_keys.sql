@@ -16,7 +16,7 @@ create table instructor
 ​
 create table course
 (
-	ID	varchar,
+	ID varchar,
 	name varchar not null,
 	sec varchar,
 	semester varchar,
