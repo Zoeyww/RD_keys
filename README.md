@@ -1,10 +1,5 @@
 # Relational Database Keys
 
-#### Primary Key
-
-#### Unique Key
-
-#### Foreign Key
 
 ### Why do we care about relational database management systems?
 
