@@ -27,11 +27,11 @@ Unique key is the minimal subset of attributes that allows us to uniquely identi
 2. We are allowed to have more than one primary keys.
 
 Now you might ask yourself "why do we need to have unique keys then?". This is a good question which I will explain using an example. Think we have a table for instructors with attributes:
-  * id
-  * name
-  * last name
-  * phone number
-  * email
+   * id
+   * name
+   * last name
+   * phone number
+   * email
 
 
 #### Foreign Key
