@@ -6,4 +6,6 @@
 
 ### Why do we care about relational database keys?
 
-![alt text](https://github.com/armantavanaa/RD_keys/blob/main/dak9ncd8lz3z2oa2dl11.jpg?raw=true)"https://res.cloudinary.com/practicaldev/image/fetch/s--IZV2mWX---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dak9ncd8lz3z2oa2dl11.jpg"
+![alt text](https://github.com/armantavanaa/RD_keys/blob/main/dak9ncd8lz3z2oa2dl11.jpg?raw=true)
+
+* Database keys helps us have integrity constraint in our database and since integrity constraint is one of the factors of DBMS we really care about database keys.
