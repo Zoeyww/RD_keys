@@ -9,3 +9,10 @@
 ![alt text](https://github.com/armantavanaa/RD_keys/blob/main/dak9ncd8lz3z2oa2dl11.jpg?raw=true)
 
 * Database keys helps us have integrity constraint in our database and since integrity constraint is one of the factors of DBMS we really care about database keys.
+
+There are three different keys that we are focusing on. These keys are:
+
+1. Primary Key
+2. Unique Key
+3. Foreing Key
+
