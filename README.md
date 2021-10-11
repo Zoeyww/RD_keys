@@ -32,6 +32,6 @@ Now you might ask yourself "why do we need to have unique keys then?". This is a
    * last name
    * phone number
    * email
-
+In this case phone number is unique as well as email. However, these can actually be null because there might be someone who does not have a phone number. Also, in this case we need both of them to be unique and primary key cannot help us with that since we can only have one primary key. Unique key here allows us to make sure that both phone number and email are unique and also in a case of a instructor not having a phone number or an email we will not have any problems because unique keys can take null value. This example shows us the importance of unique key.
 
 #### Foreign Key
