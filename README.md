@@ -3,7 +3,7 @@
 
 ### Why do we care about relational database management systems?
 
-* In today's data driven world every company of every size needs to manage their data. One of the best and fastest system out there is relational databeses.
+* In today's data driven world every company of every size needs to manage their data. One of the best and fastest systems out there is relational databes management system.
 
 ### Why do we care about relational database keys?
 
