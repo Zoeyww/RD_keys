@@ -25,6 +25,7 @@ There are three different keys that we are focusing on. These keys are:
 Unique key is the minimal subset of attributes that allows us to uniquely identify a tuple in our table. So, unique key is very similar to primary key. However there are some big differences between them. These differences are:
 1. Unique key can actually be null.
 2. We are allowed to have more than one primary keys.
+
 Now you might ask yourself "why do we need to have unique keys then?". This is a good question which I will explain using an example. Think we have a table for instructors with attributes:
   * id
   * name
